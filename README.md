@@ -1,6 +1,8 @@
-# 2BIGB GammaRay Blazar Catalog
+# 2BIGB GammaRay Blazar Catalog 
 
-The 2BIGB catalog is a gamma-ray database which lists spectral data-points and the results of a broadband analysis with Fermi-LAT, for the entire population of high synchrotron peak blazars from the 3HSP catalog.
+2BIGB-arXiv: (https://arxiv.org/abs/1911.08912)
+
+The 2BIGB catalog is a gamma-ray database which lists spectral data-points and the results of a broadband analysis with Fermi-LAT, for the entire population of high synchrotron peak blazars from the 3HSP catalog. 
 
 The broadband analysis set up considers Pass8 data (P8R3) integrated over 11 years of observations, and the 0.5-500 GeV energy band. The results are available in the "2BIGB-3HSP-Broadband-500MeV-500GeV-11yrs.txt" file. The "README-Broadband-Results-Table.txt" file gives an extensive description of all columns.
 
