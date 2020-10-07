@@ -13,7 +13,7 @@
  ! - UPLOAD THIS TABLE
  ! - FROM NOW ON, THE SED DATA POINTS WILL SHOW UP WHEN YOU CENTER AT 2BIGB SOURCES
  !
- ! THE GAMMA-RAY SEDs WILL ALSO BE AVAILABLE VIA http://vo.bsdc.icranet.org 
+ ! THE GAMMA-RAY SEDs WILL ALSO BE AVAILABLE VIA CDS-Vizier and http://vo.bsdc.icranet.org 
  !
  !
  ! Use ! to comment row - Delimiter used '|'
