@@ -1,4 +1,4 @@
-The 2BIGB catalog (arxiv:xxxxxx)
+The 2BIGB catalogue
 
 Here we have a description for the columns in table "2BIGB-3HSP-Broadband-500MeV-500GeV-11yrs.txt" (.ascii format).
 
