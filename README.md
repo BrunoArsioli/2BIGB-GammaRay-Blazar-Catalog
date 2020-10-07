@@ -2,6 +2,7 @@
 
 2BIGB-arXiv: (https://arxiv.org/abs/1911.08912)
 2BIGB-MNRAS: (https://doi.org/10.1093/mnras/staa368)
+CDS-Repository: (https://cdsarc.unistra.fr/viz-bin/cat/J/MNRAS/493/2438)
 
 The 2BIGB catalog is a gamma-ray database which lists spectral data-points and the results of a broadband analysis with Fermi-LAT, for the entire population of high synchrotron peak blazars from the 3HSP catalog. 
 
