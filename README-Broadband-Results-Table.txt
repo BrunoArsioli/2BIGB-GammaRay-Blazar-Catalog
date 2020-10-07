@@ -49,7 +49,7 @@ Next columns, from 22 to 30, are read from 4FGL catalog, version gll-psc-v20 (4F
 
 Columns 22, 23 and 24 with "4FGL_Name_v20" "R.A.4FGL_v20" and "Dec_4FGL_v20": These are the names, R.A. and Declination (in degrees) associated to the 4FGL sources. 
 
-Column 25 with "sqrt(TS)_4FGL_v20": This is the square root of the TS value in 4FGLv20.
+Column 25 with "Signif_4FGL_v20": This is the significance of the detection in 4FGL_v20 (can be approximated to the square root of the TS value).
 
 Column 26 with "Pivot_Energy_4FGL_v20": This is the pivot energy (in MeV) as listed in 4FGLv20. 
 
